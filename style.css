@@ -1,0 +1,117 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.yellow-header {
+  background-color: #ffeb3b;
+  text-align: center;
+  padding: 1rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.yellow-header img#logo {
+  height: 40px;
+}
+
+.slider img {
+  width: 100%;
+  display: none;
+}
+
+.slider img.active {
+  display: block;
+}
+
+/* Live winner feed styling - Advanced yellow touch ticker */
+.live-winner-feed {
+  background-color: #fff8dc;
+  border-top: 2px solid #ffeb3b;
+  border-bottom: 2px solid #ffeb3b;
+  overflow: hidden;
+  height: 40px;
+  line-height: 40px;
+  position: relative;
+  margin-top: 1rem;
+}
+
+.winner-feed-track {
+  display: inline-block;
+  white-space: nowrap;
+  animation: tickerScroll 50s linear infinite;
+}
+
+.winner-feed-track span {
+  display: inline-block;
+  padding: 0 2rem;
+  background-color: #ffeb3b; /* Yellow highlight */
+  border-radius: 20px;
+  margin: 0 1rem;
+  color: #333;
+}
+
+@keyframes tickerScroll {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-100%); }
+}
+
+.order-tracking {
+  padding: 2rem;
+  text-align: center;
+}
+
+#orderNumber {
+  padding: 0.5rem;
+  width: 200px;
+}
+
+button {
+  background-color: #ffeb3b;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#orderDetails {
+  margin-top: 1rem;
+  border-top: 1px solid #ff0000;
+  padding-top: 1rem;
+}
+
+#productImage {
+  width: 200px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.verified {
+  color: green;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.whatsapp-button {
+  display: inline-flex;
+  align-items: center;
+  background-color: #25d366;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.whatsapp-button img {
+  height: 20px;
+  margin-right: 0.5rem;
+}

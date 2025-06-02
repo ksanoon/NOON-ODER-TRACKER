@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Order Tracking</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Yellow header with only logo -->
+  <header class="yellow-header">
+    <img src="image/Noon_Logo.webp" alt="Website Logo" id="logo" />
+  </header>
+
+  <!-- Slider section -->
+  <section class="slider">
+    <img src="image/poster noon 1.png" alt="Slider 1" />
+    <img src="image/poster noon 2.png" alt="Slider 2" />
+    <img src="image/poster noon 3.png" alt="Slider 3" />
+    <img src="image/poster noon 4.png" alt="Slider 4" />
+    <img src="image/poster noon 6.png" alt="Slider 4" />
+    <img src="image/poster noon 5.png" alt="Slider 4" />
+    <img src="image/poster noon 7.png" alt="Slider 4" />
+  </section>
+
+  <!-- Live winner feed section -->
+  <section class="live-winner-feed">
+    <div class="winner-feed-track">
+      <span>🎉 Winner: Ayesha - iPhone 15 Pro Max</span>
+      <span>🎉 Winner: Rahul - AirPods</span>
+      <span>🎉 Winner: Sana - 5000 Riyal</span>
+      <span>🎉 Winner: Arjun - Apple Laptop</span>
+      <span>🎉 Winner: Ali - Apple iPad</span>
+      <span>🎉 Winner: Priya - Smart Watch</span>
+      <span>🎉 Winner: Bilal - iPhone 15 Pro Max</span>
+      <span>🎉 Winner: Ramesh - AirPods</span>
+      <span>🎉 Winner: Zara - 5000 Riyal</span>
+      <span>🎉 Winner: Pooja - Apple Laptop</span>
+      <span>🎉 Winner: Hamza - Apple iPad</span>
+      <span>🎉 Winner: Karan - Smart Watch</span>
+      <span>🎉 Winner: Fatima - iPhone 15 Pro Max</span>
+      <span>🎉 Winner: Aman - AirPods</span>
+      <span>🎉 Winner: Usman - 5000 Riyal</span>
+      <span>🎉 Winner: Deepak - Apple Laptop</span>
+      <span>🎉 Winner: Saba - Apple iPad</span>
+      <span>🎉 Winner: Neha - Smart Watch</span>
+      <span>🎉 Winner: Imran - iPhone 15 Pro Max</span>
+      <span>🎉 Winner: Rohit - AirPods</span>
+    </div>
+  </section>
+
+  <!-- Order tracking section -->
+  <section class="order-tracking">
+    <h2>Track Your Order</h2>
+    <input type="text" id="orderNumber" placeholder="Enter your order number" />
+    <button onclick="showOrderDetails()">Submit</button>
+
+    <div id="orderDetails" class="hidden">
+      <img id="productImage" src="image/ipone 16.webp" alt="Product Image" />
+      <p><strong>Winner Name:</strong> <span id="customerName"></span></p>
+      <p>
+        <strong>Mobile Number:</strong> <span id="customerPhone"></span>
+        <span class="verified">Verified</span>
+      </p>
+      <p><strong>Delivery Charges:</strong> <span id="deliveryCharges"></span></p>
+      <p><strong>Delivery Date:</strong> <span id="deliveryDate"></span></p>
+
+      <a href=https://wa.me/966539319857?text=Hello%2C%20I%20want%20to%20check%20my%20order%20status.
+" class="whatsapp-button" target="_blank">
+        <img src="image/whatsapp.png" alt="WhatsApp" />
+        HelpLine / Chat on WhatsApp
+      </a>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
