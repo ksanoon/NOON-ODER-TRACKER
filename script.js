@@ -51,7 +51,7 @@ const orders = [
   { trackingNumber: "1817", name: "Mohammed Jaan", phone: "+966*******", delivery: "400 <span style='font-family: Arial;'>&#65020;</span>", date: "3 June" },
   { trackingNumber: "1818", name: "Jaher udin", phone: "+966*******", delivery: "400 <span style='font-family: Arial;'>&#65020;</span>", date: "4 June" },
   { trackingNumber: "1819", name: "Mdripon Ahmed", phone: "+966*******", delivery: "400 <span style='font-family: Arial;'>&#65020;</span>", date: "4 June" },
-]
+
 ];
 
 
