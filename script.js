@@ -279,6 +279,23 @@ const orders = [
 { "trackingNumber":"1988", "name":"اسلم حیات", "phone":"+966****560", "delivery":"400 <span style='font-family: Arial;'>&#65020;</span>", "date":"18 June" },
 { "trackingNumber":"1989", "name":"Shaik. Darbar", "phone":"+966****890", "delivery":"400 <span style='font-family: Arial;'>&#65020;</span>", "date":"18 June" },
 { "trackingNumber":"1990", "name":"uzair", "phone":"+966****681", "delivery":"400 <span style='font-family: Arial;'>&#65020;</span>", "date":"18 June" },
+{"trackingNumber":"1991","name":"Raju Mondal","phone":"+966****038","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"22 June"},
+{"trackingNumber":"1992","name":"Jafarkhan","phone":"+966****988","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"18 June"},
+{"trackingNumber":"1993","name":"Riffat khan","phone":"+966****707","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"19 June"},
+{"trackingNumber":"1994","name":"Zulfiqar","phone":"+966****165","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"19 June"},
+{"trackingNumber":"1995","name":"MUHAMMAD SAEED","phone":"+966****546","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"18 June"},
+{"trackingNumber":"1996","name":"Jankhan","phone":"+966****968","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"20 June"},
+{"trackingNumber":"1997","name":"Rasell","phone":"+966****109","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"19 June"},
+{"trackingNumber":"1998","name":"Juma.khan","phone":"+966****483","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"18 June"},
+{"trackingNumber":"1999","name":"Sahajan Gazi","phone":"+966****348","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"20 June"},
+{"trackingNumber":"2000","name":"Lalbacha","phone":"+966****145","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"18 June"},
+{"trackingNumber":"2001","name":"BELlAL","phone":"+966****985","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"18 June"},
+{"trackingNumber":"2002","name":"Faiz Ali","phone":"+966****767","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"19 June"},
+{"trackingNumber":"2003","name":"Muhammad Sajid","phone":"+966****335","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"19 June"},
+{"trackingNumber":"2004","name":"سلیم","phone":"+966****805","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"18 June"},
+{"trackingNumber":"2005","name":"Shamshad Khan","phone":"+966****742","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"21 June"},
+{"trackingNumber":"2006","name":"Ram","phone":"+966****017","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"20 June"},
+{"trackingNumber":"2007","name":"Khadam Hussain","phone":"+966****852","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"19 June"},
 
 ];
 
