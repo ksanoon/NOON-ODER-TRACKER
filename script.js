@@ -335,6 +335,19 @@ const orders = [
 {"trackingNumber":"2044","name":"Dinesh","phone":"+966****039","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"22 June"},
 {"trackingNumber":"2045","name":"Umar","phone":"+966****809","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"20 June"},
 {"trackingNumber":"2046","name":"Rahman Bhallu","phone":"+966****117","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"21 June"},
+{"trackingNumber":"2047","name":"Danish","phone":"+966****988","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"25 June"},
+{"trackingNumber":"2048","name":"Zabih khan","phone":"+966****414","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"21 June"},
+{"trackingNumber":"2049","name":"Irshad ali","phone":"+966****059","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"25 June"},
+{"trackingNumber":"2050","name":"Hakim Miah","phone":"+966****677","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"22 June"},
+{"trackingNumber":"2051","name":"md rana","phone":"+966****025","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"21 June"},
+{"trackingNumber":"2052","name":"Bakhti Zaman","phone":"+966****570","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"21 June"},
+{"trackingNumber":"2053","name":"Tariq Malik","phone":"+966****906","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"25 June"},
+{"trackingNumber":"2054","name":"MD Rafeeq","phone":"+966****691","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"22 June"},
+{"trackingNumber":"2055","name":"Rajib","phone":"+966****758","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 June"},
+{"trackingNumber":"2056","name":"Shah saeed","phone":"+966****739","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"21 June"},
+{"trackingNumber":"2057","name":"نورالحق محمد علم","phone":"+966****296","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"22 June"},
+{"trackingNumber":"2058","name":"Mohammad naseem khan","phone":"+966****418","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"21 June"},
+{"trackingNumber":"2059","name":"جهانګير","phone":"+966****213","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 June"},
 
 ];
 
