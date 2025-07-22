@@ -274,6 +274,19 @@ const orders = [
 { "trackingNumber":"2274", "name":"Manzoor Hussain Kashmiri", "phone":"+966****316", "delivery":"400 <span style='font-family: Arial;'>&#65020;</span>", "date":"21 July" },
 { "trackingNumber":"2275", "name":"Jehangir khan", "phone":"+966****978", "delivery":"400 <span style='font-family: Arial;'>&#65020;</span>", "date":"21 July" },
 { "trackingNumber":"2276", "name":"محمد نديم", "phone":"+966****363", "delivery":"400 <span style='font-family: Arial;'>&#65020;</span>", "date":"21 July" },
+{"trackingNumber":"2277","name":"sajid ali","phone":"+966545928276","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
+{"trackingNumber":"2278","name":"Shamim","phone":"+966578746231","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"24 July"},
+{"trackingNumber":"2279","name":"Bilal Hameed","phone":"+966581382967","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"23 July"},
+{"trackingNumber":"2280","name":"M. karthikeyan","phone":"+966556017814","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"23 July"},
+{"trackingNumber":"2281","name":"Rabbiy","phone":"+966592065534","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"23 July"},
+{"trackingNumber":"2282","name":"Khorram shahzaf","phone":"+966571809945","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"23 July"},
+{"trackingNumber":"2283","name":"Nadeem ahmad","phone":"+966507743468","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"23 July"},
+{"trackingNumber":"2284","name":"محمد انور","phone":"+966595403653","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"25 July"},
+{"trackingNumber":"2285","name":"karim","phone":"+966578616587","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"23 July"},
+{"trackingNumber":"2286","name":"Abdul.Rasheed","phone":"+966597171018","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"23 July"},
+{"trackingNumber":"2287","name":"Nisar khan","phone":"+966540407211","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"27 July"},
+{"trackingNumber":"2288","name":"SHAIK MOHAMMED BASHA","phone":"+966554421461","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"23 July"},
+{"trackingNumber":"2289","name":"Gul dawood zaib","phone":"+966540245992","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
 
 
 ];
