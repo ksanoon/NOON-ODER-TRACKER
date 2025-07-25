@@ -315,6 +315,17 @@ const orders = [
 {"trackingNumber":"2315","name":"Alamin","phone":"+966****3119","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"25 July"},
 {"trackingNumber":"2316","name":"Mohammad Irfan","phone":"+966****8456","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
 {"trackingNumber":"2317","name":"محمد۔شبیر۔","phone":"+966****6884","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"25 July"},
+{"trackingNumber":"2318","name":"Tanveer ahmad","phone":"+966****9097","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
+{"trackingNumber":"2319","name":"Arfan","phone":"+966****6037","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"28 July"},
+{"trackingNumber":"2320","name":"Ghulam Farid","phone":"+966****2086","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"27 July"},
+{"trackingNumber":"2321","name":"Shahzad ahmed","phone":"+966****1328","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
+{"trackingNumber":"2322","name":"Noorul Haque","phone":"+966****4255","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
+{"trackingNumber":"2323","name":"noor uddin","phone":"+966****6395","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
+{"trackingNumber":"2324","name":"Md shakil","phone":"+966****8904","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
+{"trackingNumber":"2325","name":"M ADNAN","phone":"+966****4652","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"27 July"},
+{"trackingNumber":"2326","name":"Sukhmeet singh","phone":"+966****2791","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
+{"trackingNumber":"2327","name":"Mo shakeel","phone":"+966****6576","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
+{"trackingNumber":"2329","name":"اسلام زادہ","phone":"+966****9138","delivery":"400 <span style='font-family: Arial;'>&#65020;</span>","date":"26 July"},
 
 
 ];
